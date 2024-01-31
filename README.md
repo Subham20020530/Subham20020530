@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham20020530&label=Profile%20views&color=0e75b6&style=flat" alt="subham20020530" /> </p>
 
-- 🌱 I’m currently learning **HTML|CSS|JavaScript**
+- 🌱 I’m currently learning **NodeJs and MySql**
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **my hobbies and interests**
 
 - 📫 How to reach me **kundusubham801@gmail.com**
 
