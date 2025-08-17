@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kundusubham801@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **Water might not be wet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
